@@ -1,0 +1,113 @@
+.titleSection{
+    background-color: rgb(2, 2, 75);
+}
+h1{
+    font-family: "Playpen Sans", sans-serif;
+}
+.title{
+    color: azure;
+    text-align: center;
+}
+h2{
+    font-family: "Playpen Sans", sans-serif;
+}
+.container{
+    size: 100%;
+}
+.pro{
+    text-decoration: underline;
+}
+img.profile{
+    height: 10em;
+    border-radius: 50%;
+    margin: 0px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.row1{
+    display: flex;
+    justify-content: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.row > *{
+    text-align: center;
+}
+.row > h1{
+    font-family: "Playpen Sans", sans-serif;
+    color: rgb(63, 184, 184);
+    margin: 1em;
+}
+.row > p{
+    padding: 1em;
+}
+hr{
+    border-top: 5px dotted rgb(100, 184, 233);
+}
+.coding{
+    margin: 1em;
+}
+.monke{
+    float: left;
+    width: 20rem;
+    margin: 2em;
+}
+.crochet-logo{
+    float: left;
+    width: 10rem;
+    margin: 2em;
+    border-radius: 50%;
+}
+.text-container{
+    margin: 2em;
+    padding: 3em;
+}
+.text-container > h3{
+    color: rgb(38, 164, 214);
+}
+.container.get-in-touch{
+    display: flex;
+    justify-content: center;
+}
+.container.get-in-touch > h1{
+    color: rgb(38, 164, 214);
+    margin: 1em;
+}
+.container.get-in-touch > h3{
+    color: rgb(18, 104, 137);
+    text-align: center;
+}
+.container.get-in-touch > p{
+    text-align: center;
+    font-size: 1.25em;
+}
+.footer{
+    background-color: rgb(107, 107, 217);
+}
+a > *{
+    color: azure;
+}
+.copyright{
+    color: azure;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+li{
+    margin: 0.5em;
+}
+button{
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+
